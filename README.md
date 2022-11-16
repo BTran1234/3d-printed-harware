@@ -1,3 +1,11 @@
+# .stl files for 3d printing the hardware required for the loony squad powerplay claw
+WILL NOT BE AS DURABLE AS ACTUAL HARDWARE
+
+Will design and add 6mm and 8mm bushings instead of bearings
+
+
+
+--------------------------------------------------------------------------------------------
 # PowerPlay-Claw
 Open source claw design for FIRST Power Play 2022-2023
 
